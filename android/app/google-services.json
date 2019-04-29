@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "280534145306",
+    "firebase_url": "https://loginsys-155e5.firebaseio.com",
+    "project_id": "loginsys-155e5",
+    "storage_bucket": "loginsys-155e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280534145306:android:d1170b8868e86f6e",
+        "android_client_info": {
+          "package_name": "com.blaze.login_sys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280534145306-65blopl3f9jjkhr24ar1nc5csp371jdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blaze.login_sys",
+            "certificate_hash": "9f1801b94f1e7acbf6ce0c7092b2d1fcbe2bc865"
+          }
+        },
+        {
+          "client_id": "280534145306-foeu9cjoqae2f4hl39rpggcp7sbuioif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2330NtiAV_O2NGgNXJK9V0palW6UhlRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280534145306-foeu9cjoqae2f4hl39rpggcp7sbuioif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
